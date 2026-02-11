@@ -40,7 +40,7 @@ See LICENSE.txt
 
 \## Outlook Ribbon
 
-!\[Encrypt Button](Assets/Activated.png)
+!\[image](Assets/Activated.png)
 
-!\[Encrypt Button](Assets/Default.png)
+!\[image](Assets/Default.png)
 
