@@ -38,7 +38,7 @@ See LICENSE.txt
 
 
 
-\## Outlook Ribbon
+**Outlook Ribbon**
 
 
 
