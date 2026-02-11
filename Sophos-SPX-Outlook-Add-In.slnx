@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Sophos-SPX-Outlook-Add-In/Sophos-SPX-Outlook-Add-In.csproj" Id="294b107b-9960-4c66-9997-f38bdecf857b" />
+  <Project Path="Sophos-SPX-Outlook-AddIn.MSI/Sophos-SPX-Outlook-AddIn.MSI.vdproj" Type="Installer">
+    <Build />
+  </Project>
+</Solution>
